@@ -1,0 +1,35 @@
+.questionCard{
+    max-width: 864px;
+    width: 100%;
+}
+.questionCard-title{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+.questionCard button{
+    width: 48%;
+    height: 40px;
+    margin: .3rem;
+    font-size: 18px;
+    background-color: white;
+    border:1px solid lightgray;
+    border-radius: 10px;
+}
+.questionCard button:hover{
+    background-color: lightgreen;
+}
+.questionCard-timer{
+    width: 45px;
+    height: 45px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}

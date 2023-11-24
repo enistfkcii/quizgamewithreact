@@ -1,0 +1,35 @@
+
+.introduce{
+width: 100%;
+height: 100vh;
+background-image: linear-gradient(#6d8eff,#4cd1ff);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.introduce-container{
+    max-width: 864px;
+    background-color: #4d50a1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    border: 1px solid transparent;
+    color: white;
+    border-radius: 10px;
+}
+.introduce-btn{
+    width: 243px;
+    height: 30px;
+    font-size: 18px;
+    background-color: #416177;
+    color:white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin:10px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
